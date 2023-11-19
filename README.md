@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 <h1 align="center">Hello! I'm Lucas</h1>
 <h5 align="center">I ❤️ solve great challenges using tech.</h5>&nbsp;
