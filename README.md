@@ -1,8 +1,11 @@
-OLLA MUNDOO DEV!  EU SOU O LUCAS BATISTA 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=header"/>
+
+<h1 align="center">Hello! I'm Lucas</h1>
+<h5 align="center">I ❤️ solve great challenges using tech.</h5>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BatistaDev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://devin-readme-stats-batistadevins-projects.vercel.app/api/top-langs/?username=BatistaDevin&show_icons=true&theme=radical&layout=compact" />
+<img width=45% height=195px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BatistaDevin&theme=radical&mode=weekly" />
+<img width=45% height=195px align="center"  src="https://devin-readme-stats-batistadevins-projects.vercel.app/api?username=BatistaDevin&show_icons=true&theme=radical&count_private=true" />
  </div>
  
  &nbsp;
